@@ -1,1 +1,1 @@
-login page + payment page
+login page + payment page + footer
